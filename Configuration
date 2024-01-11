@@ -1,0 +1,5 @@
+params = {
+    'q': city,
+    'appid': api_key,
+    'units': 'metric'  # Change to 'imperial' for Fahrenheit
+}
